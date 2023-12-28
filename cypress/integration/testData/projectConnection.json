@@ -1,0 +1,17 @@
+[
+    {
+        "testcasename": "Verify the user is able to create project and connect AWS account successfully",
+        "projectType": "aws",
+        "arnValue": "arn:aws:iam::641885301384:role/Accurics_Read_Only_Role",
+        "externalId": "456456",
+        "suite": "smoke"
+    },
+    {
+        "testcasename": "Verify the user is able to create project and connect Azure account successfully",
+        "projectType": "azure",
+        "clientId" : "e29322f1-c353-45f0-8f5a-bbb1ff6aef7a",
+        "secretValue": "wqC7Q~YspBP6whvwmQji3jJo3Bvp4OkKHivQo",
+        "tenantId": "6a2b8079-0320-405f-ad21-17a3103014f6",
+        "suite": "full"
+    }
+]

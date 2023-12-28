@@ -1,0 +1,20 @@
+[
+    {
+        "testcasename": "UI-009: Non-Plan based IaC scan (Public repo - search and select) without cloud account associated - Validate KPIs",
+        "suite": "smoke",
+        "repositoryName": "PublicRepo",
+        "repoUrl": "https://github.com/futurice/terraform-examples.git",
+        "folderPath": "aws",
+        "repoType": "Github Cloud",
+        "scanCreationText": "Created IaC scan",
+        "scanFinishText": "Finished scanning environment",
+        "iacEngineType": "Terraform",
+        "version": "0.12.x",
+        "remediationType": "Auto-Remediate",
+        "isPlanBasedSetup": false,
+        "parameterPlanBasedSetupKey": "BRANCH_NAME",
+        "parameterPlanBasedSetupValue": "master",
+        "iacScanFailingPoliciesThresholdValue": "0",
+        "iacScanResourcesThresholdValue": "0"
+    }
+]

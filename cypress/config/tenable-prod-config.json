@@ -1,0 +1,13 @@
+{
+    "baseUrl": "https://cloud.tenable.com",
+    "env": {
+      "captchaEnabled":true,
+      "qaUserName": "qe-cs-auto-in01-u01@tenable.com",
+      "qaUserPassword": "%ZJ/C}*2N@O%u0-6zt1V",
+      "apiToken":"5d15272b-e9ed-4f8d-828c-a34abf5e0d27",
+      "botID":"<use_actual_value>",
+      "botHost":"<use_actual_value>",
+      "botFEPort":9022,
+      "botBEPort":9020
+    }
+  }

@@ -1,0 +1,7 @@
+[
+    {
+        "testcasename": "Verify the user is able to create project and Update,Delete successfully",
+        "projectType": "aws",
+        "suite": "smoke"
+    }
+]

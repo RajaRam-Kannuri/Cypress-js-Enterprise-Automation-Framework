@@ -1,0 +1,9 @@
+[
+    {
+        "testcasename": "Verify ui components validation of project tab",
+        "projectType": "aws",
+        "suite": "smoke",
+        "policyName":"Accurics Security Best Practices for Kubernetes"
+        
+    }
+]

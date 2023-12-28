@@ -1,0 +1,18 @@
+
+
+[
+    {
+        "testcasename": "Verify the user is able to onboard Azure Account on go Positive and Negative",
+        "projectType": "azure",
+        "clientId" : "e29322f1-c353-45f0-8f5a-bbb1ff6aef7a",
+        "secretValue": "wqC7Q~YspBP6whvwmQji3jJo3Bvp4OkKHivQo",
+        "tenantId": "6a2b8079-0320-405f-ad21-17a3103014f6",
+        "clientId_invalid":"d76d3c0b-a3b2-413d-b329-a09356b__7da",
+        "secretValue_invalid":"kz2_HIHGU_4q0rz~pDYbwF2MZTE-2_j",
+        "tenantId_invalid":"1b25d708-64d9-43ca-a6d4-72109521",
+        "failingPoliciesThresholdValue": "5",
+        "resourcesThresholdValue": "10",
+        "suite": "smoke"
+    }
+   
+]

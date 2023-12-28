@@ -1,0 +1,7 @@
+[
+    {
+        "testcasename": "Verify the policies in the table",
+        "suite": "smoke",
+        "policyName" : "Ensure that public access is not configured for Azure Managed Disk"
+    }
+]

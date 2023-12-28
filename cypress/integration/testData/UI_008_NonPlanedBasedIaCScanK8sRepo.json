@@ -1,0 +1,18 @@
+[
+    {
+        "testcasename": "Non-Plan based IaC scan (K8s repo - search and select) without cloud account associated - Validate KPIs",
+        "suite": "smoke",
+        "repositoryName": "/AC10QA-ORG1/k8s-sample-app.git",
+        "scanCreationText": "Created IaC scan",
+        "scanFinishText": "Finished scanning environment",
+        "repoType": "Bitbucket Cloud",
+        "iacEngineType": "Terraform",
+        "version": "0.12.x",
+        "remediationType": "Auto-Remediate",
+        "isPlanBasedSetup": false,
+        "parameterPlanBasedSetupKey": "BRANCH_NAME",
+        "parameterPlanBasedSetupValue": "master",
+        "iacScanFailingPoliciesThresholdValue": "0",
+        "iacScanResourcesThresholdValue": "0"
+    }
+]

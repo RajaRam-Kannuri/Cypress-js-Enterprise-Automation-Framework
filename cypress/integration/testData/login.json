@@ -1,0 +1,19 @@
+[
+    {
+        "testcasename": "Verify the login with valid credentials",
+        "loginusername": "saurabh+jarvis1@accurics.com",
+        "loginpassword": "Acqa@123",
+        "cloudUsername": "parora.ctr+admin@tenable.com",
+        "cloudPassword": "Testing@12345",
+        "suite": "smoke,full"
+    },
+    {
+        "testcasename": "Verify the login with invalid username",
+        "loginusername": "saurabh+jas1@accurics.com",
+        "loginpassword": "Acqa@123",
+        "cloudUsername": "parora.ctin@tenable.com",
+        "cloudPassword": "Testing@12345",
+        "onscreenmessage": "Invalid username or password.",
+        "suite": "full"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "testcasename": "Non-Plan based IaC scan (terraform repo - search and select) without cloud account associated - Validate KPIs",
+        "suite": "smoke",
+        "repositoryName": "/acqa-repo1-aws-tf12-part2.git",
+        "scanCreationText": "Created IaC scan",
+        "scanFinishText": "Finished scanning environment",
+        "repoType": "Bitbucket Cloud",
+        "iacEngineType": "Terraform",
+        "version": "0.12.x",
+        "remediationType": "Auto-Remediate",
+        "isPlanBasedSetup": false,
+        "parameterPlanBasedSetupKey": "BRANCH_NAME",
+        "parameterPlanBasedSetupValue": "master",
+        "iacScanFailingPoliciesThresholdValue": "0",
+        "iacScanResourcesThresholdValue": "0"
+    }
+]

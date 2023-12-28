@@ -1,0 +1,14 @@
+{
+  "env": {
+    "suiteName": "smoke"
+  },
+  "component": {
+    "componentFolder": "src",
+    "testFiles": "**/*.spec.ts",
+    "viewportWidth": 1920,
+    "viewportHeight": 1080
+  },
+  "trashAssetsBeforeRuns": true,
+  "video": false,
+  "chromeWebSecurity": false
+}

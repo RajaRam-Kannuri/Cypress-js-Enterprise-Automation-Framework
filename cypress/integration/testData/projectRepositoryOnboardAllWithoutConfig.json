@@ -1,0 +1,12 @@
+[
+    {
+        "testcasename": "Verify the user is able to create project and onboard all repository without config successfully",
+        "suite": "smoke",
+        "repositoryName": "/accurics/aws-iam-policies.git",
+        "scanCreationText": "Created IaC scan",
+        "scanFinishText": "Finished scanning environment",
+        "repoType": "Bitbucket Cloud",
+        "isNewProject": false,
+        "projectType": "aws"
+    }
+]

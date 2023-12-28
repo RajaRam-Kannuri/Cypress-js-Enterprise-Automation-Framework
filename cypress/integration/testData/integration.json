@@ -1,0 +1,10 @@
+[
+    {
+        "testcasename": "Verify the user is able to integrate Terraform cloud",
+        "urlEndPointName": "https://cloud.tenable.com/cns/external/api/application/trigger/terraform-cloud/5f4d2799-d42b-4c90-90f7-9772c2a82a41",
+        "textBoxHAMC": "d25a640f-257f-4b36-afdb-71bf58aa015f",
+        "suite": "smoke,full"
+        
+    }
+    
+]

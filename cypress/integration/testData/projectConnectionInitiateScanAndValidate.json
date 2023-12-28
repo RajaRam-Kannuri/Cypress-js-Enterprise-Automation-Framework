@@ -1,0 +1,11 @@
+[
+    {
+        "testcasename": "Verify the user is able to create project and connect AWS account and initiate the scan and validate the scan results",
+        "projectType": "aws",
+        "arnValue": "arn:aws:iam::641885301384:role/Accurics_Read_Only_Role",
+        "externalId": "456456",
+        "suite": "smoke",
+        "failingPoliciesThresholdValue": "5",
+        "resourcesThresholdValue": "10"
+    }
+]

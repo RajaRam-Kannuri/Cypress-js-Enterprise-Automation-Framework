@@ -1,0 +1,9 @@
+[
+    {
+        "testcasename": "Verify the user is able to onboard GCP Account on go negatives",
+        "projectType": "gcp",
+        "suite": "smoke",
+        "failingPoliciesThresholdValue": "5",
+        "resourcesThresholdValue": "10"
+    }
+]

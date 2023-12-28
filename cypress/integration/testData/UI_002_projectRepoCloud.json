@@ -1,0 +1,7 @@
+[
+    {
+        "testcasename": "Verify the user is able to delete Project,Repositories,CloudAccount successfully",
+        "projectType": "aws",
+        "suite": "smoke"
+    }
+]

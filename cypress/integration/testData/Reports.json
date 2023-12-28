@@ -1,0 +1,12 @@
+[
+    {
+        "testcasename": "Verify ui components validation of reports tab",
+        "suite": "smoke",
+        "repoType": "Bitbucket Cloud",
+        "repositoryName": "/acqa-repo1-aws-tf12-part2.git",
+        "policyName" : "Ensure custom snippets annotations is not set to true for Ingress-nginx controller deployment's Kubernetes Config Map",
+        "policyName2":"Ensure default encryption is enabled for AWS EBS Volumes",
+        "lowSeverityPolicyName":"Ensure Redis (TCP:6379) is not exposed to private hosts more than 32 for Google Compute Firewall",
+        "mediumSeverityPolicyName":"Ensure usage of names like 'Admin' are avoided for Azure SQL Server"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "testcasename":"Verify the user able to create project and connect multiple repository and launch AWS cloud account with negative and positive scenarios",
+        "suite": "smoke",
+        "projectType": "aws",
+        "arnValue": "arn:aws:iam::641885301384:role/Accurics_Read_Only_Role",
+        "externalId": "456456",
+        "arnValueInvalid":"arn:aws:iam::641885301384/Tenable_Read_Only_Role",
+        "externalIdInvalid":"123456",
+        "repositoryName":"aws-customer-demo",
+        "repositoryName2":"acqa-repo14-aws-quick-deploy-with-tfstate",
+        "scanCreationText": "Created IaC scan",
+        "scanFinishText": "Finished scanning environment",
+        "repoType": "Bitbucket Cloud",
+        "iacEngineType": "Terraform",
+        "version": "0.12.x",
+        "remediationType": "Auto-Remediate",
+        "isPlanBasedSetup": false,
+        "parameterPlanBasedSetupKey": "BRANCH_NAME",
+        "parameterPlanBasedSetupValue": "master",
+        "failingPoliciesThresholdValue": "5",
+        "resourcesThresholdValue": "8"
+    }
+]

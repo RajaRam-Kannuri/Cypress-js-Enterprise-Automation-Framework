@@ -1,0 +1,16 @@
+[
+    {
+        "testcasename": "Verify the user is able to create project and connect repository with configuration successfully",
+        "suite": "smoke",
+        "repositoryName":"/acqa-repo1-aws-tf12-part2.git",
+        "scanCreationText": "Created IaC scan",
+        "scanFinishText": "Finished scanning environment",
+        "repoType": "Bitbucket Cloud",
+        "iacEngineType": "Terraform",
+        "remediationType": "None",
+        "version": "0.15.x",
+        "isPlanBasedSetup": true,
+        "iacScanFailingPoliciesThresholdValue": "2",
+        "iacScanResourcesThresholdValue": "10"
+    }
+]

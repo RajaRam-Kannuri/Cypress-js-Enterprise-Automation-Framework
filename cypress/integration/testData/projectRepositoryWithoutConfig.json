@@ -1,0 +1,12 @@
+[
+    {
+        "testcasename": "Verify the user is able to create project and connect repository successfully",
+        "suite": "smoke",
+        "repositoryName": "/acqa-repo1-aws-tf12-part2.git",
+        "scanCreationText": "Created IaC scan",
+        "scanFinishText": "Finished scanning environment",
+        "repoType": "Bitbucket Cloud",
+        "isNewProject": false,
+        "projectType": "aws"
+    }
+]
